@@ -1,0 +1,24 @@
+{
+  "name": "messyjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "node ./scripts/publish.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smooth-cat/messyjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smooth-cat/messyjs/issues"
+  },
+  "homepage": "https://github.com/smooth-cat/messyjs#readme",
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  }
+}
